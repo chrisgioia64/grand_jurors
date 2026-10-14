@@ -1,0 +1,3789 @@
+[
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":11
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":8
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":15
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Service occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Farming\/forestry\/recreation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Construction\/extraction",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Production\/transportation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Homemaker",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Misc\/other",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Unemployed",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":12
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian\/Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Native Hawaiian or other Pacific Islander",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":14
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":10
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":5
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2026,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":13
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":6
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":17
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Service occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Farming\/forestry\/recreation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Construction\/extraction",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Production\/transportation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Homemaker",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Misc\/other",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Unemployed",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":4
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":11
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"Decline to answer",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian\/Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Native Hawaiian or other Pacific Islander",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":17
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":11
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":5
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2025,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":15
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":6
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":17
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Admin",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Legal",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Caregiver",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Director",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Consultant",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Education",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Self-Employed",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Semi-Retired",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Analyst",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":13
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"Decline to answer",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian\/Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Native Hawaiian or other Pacific Islander",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":16
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":9
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":4
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2024,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":10
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":9
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":16
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Service occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Farming\/forestry\/recreation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Construction\/extraction",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Production\/transportation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Homemaker",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Misc\/other",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Unemployed",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":7
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":7
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":5
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"Blank",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino\/Middle Eastern",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White; Hispanic\/Latino",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":12
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian or Alaskan\/Hispanic\/Latino",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":7
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":8
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2023,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":15
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":4
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":18
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Service occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Farming\/forestry\/recreation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Small Business Owner",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Production\/transportation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Homemaker",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Misc\/other",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":5
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":11
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"Blank",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino\/Middle Eastern",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White; Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":15
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White Asian",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":8
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":4
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2022,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":13
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":6
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":14
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":4
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Service occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Farming\/forestry\/recreation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Construction\/extraction",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Production\/transportation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Homemaker",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Misc\/other",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Unemployed",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":11
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":4
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"Blank",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino\/Middle Eastern",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White; Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":18
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian or Alaskan\/Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":8
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":6
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2020,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":8
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":11
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":13
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Service occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Farming\/forestry\/recreation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Construction\/extraction",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Production\/transportation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Homemaker",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Misc\/other",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Unemployed",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Decline to answer",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":4
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":13
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"Blank",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian\/Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Native Hawaiian or other Pacific Islander",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":14
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":8
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":4
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2019,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":4
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":14
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":5
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":13
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Service occupations",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Farming\/forestry\/recreation",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Construction\/extraction",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Production\/transportation",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Homemaker",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Misc\/other",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Unemployed",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Decline to answer",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":5
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":8
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":4
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"Decline to answer",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian\/Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":2
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Native Hawaiian or other Pacific Islander",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":16
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":1
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":4
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":6
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":3
+  },
+  {
+    "Data Source":"Selected & Sworn",
+    "Year":2018,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":20
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":21
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":30
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":5
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Self Employed",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Occupation",
+    "Subcategory":"Unemployed",
+    "Count":4
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":5
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":20
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":10
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Age Range",
+    "Subcategory":"Decline to answer",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian\/Hispanic\/Latino",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":6
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Native Hawaiian or other Pacific Islander",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":26
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":5
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":20
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":9
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2026,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":5
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":34
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":24
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":45
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":7
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Occupation",
+    "Subcategory":"Self Employed",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":4
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":7
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":12
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":21
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":10
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Age Range",
+    "Subcategory":"Decline to answer",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian\/Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Native Hawaiian or other Pacific Islander",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":49
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":4
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":29
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":7
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":12
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2025,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":6
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":33
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":16
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":35
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Admin",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Legal",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Caregiver",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Director",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Consultant",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Education",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Self-Employed",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Semi-Retired",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Occupation",
+    "Subcategory":"Analyst",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":9
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":24
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":9
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Age Range",
+    "Subcategory":null,
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":38
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":5
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":10
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":23
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":8
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":6
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2024,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":40
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":33
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":57
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":10
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Service occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Farming\/forestry\/recreation",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Construction\/extraction",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Production\/transportation",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Homemaker",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Misc\/other",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Occupation",
+    "Subcategory":"Unemployed",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":5
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"45-64",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":15
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":24
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":18
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Age Range",
+    "Subcategory":"Blank",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian\/Hispanic\/Latino",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":5
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":4
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White; Hispanic\/Latino",
+    "Count":4
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":52
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White\/Black or African American",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":10
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":25
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":9
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":25
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2023,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":4
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":30
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":12
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":35
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":7
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Service occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Farming\/forestry\/recreation",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Construction\/extraction",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Production\/transportation",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Homemaker",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Misc\/other",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"Unemployed",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Occupation",
+    "Subcategory":"No Answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"45-64",
+    "Count":11
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":21
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":10
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Age Range",
+    "Subcategory":"Blank",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian\/Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":5
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White; Hispanic\/Latino",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":31
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White\/Asian",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":19
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":7
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":8
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2022,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":6
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":39
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":17
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":44
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Service occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":4
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Farming\/forestry\/recreation",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Construction\/extraction",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Production\/transportation",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Homemaker",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Misc\/other",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Occupation",
+    "Subcategory":"Unemployed",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":4
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":13
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":26
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":10
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian or Alaska Native",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Native Hawaiian or other Pacific Isalnder",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":49
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":4
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":23
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":5
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":15
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2020,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":9
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":59
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":43
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":69
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":15
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Service occupations",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Farming\/forestry\/recreation",
+    "Count":8
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Construction\/extraction",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Production\/transportation",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Homemaker",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Misc\/other",
+    "Count":6
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Unemployed",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Occupation",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":4
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":7
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":15
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":52
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":21
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Age Range",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian\/Hispanic\/Latino",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":5
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":7
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":5
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Native Hawaiian or other Pacific Isalnder",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":80
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":9
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":37
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":11
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":29
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2019,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":16
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Gender",
+    "Subcategory":"Male",
+    "Count":49
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Gender",
+    "Subcategory":"Female",
+    "Count":31
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Retired",
+    "Count":59
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Management\/professional",
+    "Count":11
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Service occupations",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Sales & office occupations",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Farming\/forestry\/recreation",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Construction\/extraction",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Production\/transportation",
+    "Count":4
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Homemaker",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Student",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Misc\/other",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Unemployed",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Occupation",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"18-25",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"26-34",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"35-44",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"45-54",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"55-64",
+    "Count":23
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"65-74",
+    "Count":32
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"75 & over",
+    "Count":20
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Age Range",
+    "Subcategory":"Decline to answer",
+    "Count":1
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"American Indian\/Hispanic\/Latino",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Asian",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Black or African American",
+    "Count":5
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Hispanic\/Latino",
+    "Count":3
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Native Hawaiian or other Pacific Islander",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"White",
+    "Count":67
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Other race or ethnicity",
+    "Count":2
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"Race or Ethnicity",
+    "Subcategory":"Decline to answer",
+    "Count":0
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"District",
+    "Subcategory":"D1",
+    "Count":15
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"District",
+    "Subcategory":"D2",
+    "Count":23
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"District",
+    "Subcategory":"D3",
+    "Count":12
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"District",
+    "Subcategory":"D4",
+    "Count":21
+  },
+  {
+    "Data Source":"Applicant",
+    "Year":2018,
+    "Category":"District",
+    "Subcategory":"D5",
+    "Count":9
+  }
+]
