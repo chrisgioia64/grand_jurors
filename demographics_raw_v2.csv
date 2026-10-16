@@ -1,0 +1,525 @@
+Data Source,Year,Category,Subcategory,Count
+Selected & Sworn,2026,Gender,Male,11
+Selected & Sworn,2026,Gender,Female,8
+Selected & Sworn,2026,Occupation,Retired,15
+Selected & Sworn,2026,Occupation,Management/professional,1
+Selected & Sworn,2026,Occupation,Service occupations,0
+Selected & Sworn,2026,Occupation,Sales & office occupations,0
+Selected & Sworn,2026,Occupation,Farming/forestry/recreation,0
+Selected & Sworn,2026,Occupation,Construction/extraction,0
+Selected & Sworn,2026,Occupation,Production/transportation,0
+Selected & Sworn,2026,Occupation,Homemaker,0
+Selected & Sworn,2026,Occupation,Student,0
+Selected & Sworn,2026,Occupation,Misc/other,0
+Selected & Sworn,2026,Occupation,Unemployed,3
+Selected & Sworn,2026,Occupation,Decline to answer,0
+Selected & Sworn,2026,Age Range,18-25,0
+Selected & Sworn,2026,Age Range,26-34,0
+Selected & Sworn,2026,Age Range,35-44,0
+Selected & Sworn,2026,Age Range,45-64,4
+Selected & Sworn,2026,Age Range,65-74,12
+Selected & Sworn,2026,Age Range,75 & over,3
+Selected & Sworn,2026,Age Range,Decline to answer,0
+Selected & Sworn,2026,Race or Ethnicity,American Indian/Hispanic/Latino,0
+Selected & Sworn,2026,Race or Ethnicity,Asian,2
+Selected & Sworn,2026,Race or Ethnicity,Black or African American,2
+Selected & Sworn,2026,Race or Ethnicity,Hispanic/Latino,1
+Selected & Sworn,2026,Race or Ethnicity,Native Hawaiian or other Pacific Islander,0
+Selected & Sworn,2026,Race or Ethnicity,White,14
+Selected & Sworn,2026,Race or Ethnicity,Other race or ethnicity,0
+Selected & Sworn,2026,Race or Ethnicity,Decline to answer,0
+Selected & Sworn,2026,District,D1,1
+Selected & Sworn,2026,District,D2,10
+Selected & Sworn,2026,District,D3,1
+Selected & Sworn,2026,District,D4,5
+Selected & Sworn,2026,District,D5,2
+Selected & Sworn,2025,Gender,Male,13
+Selected & Sworn,2025,Gender,Female,6
+Selected & Sworn,2025,Occupation,Retired,17
+Selected & Sworn,2025,Occupation,Management/professional,2
+Selected & Sworn,2025,Occupation,Service occupations,0
+Selected & Sworn,2025,Occupation,Sales & office occupations,0
+Selected & Sworn,2025,Occupation,Farming/forestry/recreation,0
+Selected & Sworn,2025,Occupation,Construction/extraction,0
+Selected & Sworn,2025,Occupation,Production/transportation,0
+Selected & Sworn,2025,Occupation,Homemaker,0
+Selected & Sworn,2025,Occupation,Student,0
+Selected & Sworn,2025,Occupation,Misc/other,0
+Selected & Sworn,2025,Occupation,Unemployed,0
+Selected & Sworn,2025,Occupation,Decline to answer,0
+Selected & Sworn,2025,Age Range,18-25,0
+Selected & Sworn,2025,Age Range,26-34,0
+Selected & Sworn,2025,Age Range,35-44,0
+Selected & Sworn,2025,Age Range,45-64,5
+Selected & Sworn,2025,Age Range,65-74,11
+Selected & Sworn,2025,Age Range,75 & over,2
+Selected & Sworn,2025,Age Range,Decline to answer,1
+Selected & Sworn,2025,Race or Ethnicity,American Indian/Hispanic/Latino,0
+Selected & Sworn,2025,Race or Ethnicity,Asian,0
+Selected & Sworn,2025,Race or Ethnicity,Black or African American,0
+Selected & Sworn,2025,Race or Ethnicity,Hispanic/Latino,1
+Selected & Sworn,2025,Race or Ethnicity,Native Hawaiian or other Pacific Islander,0
+Selected & Sworn,2025,Race or Ethnicity,White,17
+Selected & Sworn,2025,Race or Ethnicity,Other race or ethnicity,0
+Selected & Sworn,2025,Race or Ethnicity,Decline to answer,1
+Selected & Sworn,2025,District,D1,1
+Selected & Sworn,2025,District,D2,11
+Selected & Sworn,2025,District,D3,1
+Selected & Sworn,2025,District,D4,5
+Selected & Sworn,2025,District,D5,1
+Selected & Sworn,2024,Gender,Male,15
+Selected & Sworn,2024,Gender,Female,6
+Selected & Sworn,2024,Occupation,Retired,17
+Selected & Sworn,2024,Occupation,Admin,0
+Selected & Sworn,2024,Occupation,Legal,0
+Selected & Sworn,2024,Occupation,Caregiver,1
+Selected & Sworn,2024,Occupation,Director,0
+Selected & Sworn,2024,Occupation,Consultant,1
+Selected & Sworn,2024,Occupation,Education,0
+Selected & Sworn,2024,Occupation,Self-Employed,2
+Selected & Sworn,2024,Occupation,Semi-Retired,0
+Selected & Sworn,2024,Occupation,Analyst,0
+Selected & Sworn,2024,Age Range,18-25,0
+Selected & Sworn,2024,Age Range,26-34,0
+Selected & Sworn,2024,Age Range,35-44,0
+Selected & Sworn,2024,Age Range,45-64,5
+Selected & Sworn,2024,Age Range,65-74,13
+Selected & Sworn,2024,Age Range,75 & over,2
+Selected & Sworn,2024,Age Range,Decline to answer,1
+Selected & Sworn,2024,Race or Ethnicity,American Indian/Hispanic/Latino,0
+Selected & Sworn,2024,Race or Ethnicity,Asian,0
+Selected & Sworn,2024,Race or Ethnicity,Black or African American,1
+Selected & Sworn,2024,Race or Ethnicity,Hispanic/Latino,1
+Selected & Sworn,2024,Race or Ethnicity,Native Hawaiian or other Pacific Islander,0
+Selected & Sworn,2024,Race or Ethnicity,White,16
+Selected & Sworn,2024,Race or Ethnicity,Other race or ethnicity,1
+Selected & Sworn,2024,Race or Ethnicity,Decline to answer,2
+Selected & Sworn,2024,District,D1,3
+Selected & Sworn,2024,District,D2,9
+Selected & Sworn,2024,District,D3,4
+Selected & Sworn,2024,District,D4,3
+Selected & Sworn,2024,District,D5,2
+Selected & Sworn,2023,Gender,Male,10
+Selected & Sworn,2023,Gender,Female,9
+Selected & Sworn,2023,Occupation,Retired,16
+Selected & Sworn,2023,Occupation,Management/professional,2
+Selected & Sworn,2023,Occupation,Service occupations,0
+Selected & Sworn,2023,Occupation,Sales & office occupations,0
+Selected & Sworn,2023,Occupation,Farming/forestry/recreation,0
+Selected & Sworn,2023,Occupation,Construction/extraction,1
+Selected & Sworn,2023,Occupation,Production/transportation,0
+Selected & Sworn,2023,Occupation,Homemaker,0
+Selected & Sworn,2023,Occupation,Student,0
+Selected & Sworn,2023,Occupation,Misc/other,0
+Selected & Sworn,2023,Occupation,Unemployed,0
+Selected & Sworn,2023,Occupation,Decline to answer,0
+Selected & Sworn,2023,Age Range,18-25,0
+Selected & Sworn,2023,Age Range,26-34,0
+Selected & Sworn,2023,Age Range,35-44,0
+Selected & Sworn,2023,Age Range,45-64,7
+Selected & Sworn,2023,Age Range,65-74,7
+Selected & Sworn,2023,Age Range,75 & over,5
+Selected & Sworn,2023,Age Range,Blank,0
+Selected & Sworn,2023,Age Range,Decline to answer,0
+Selected & Sworn,2023,Race or Ethnicity,Hispanic/Latino/Middle Eastern,1
+Selected & Sworn,2023,Race or Ethnicity,Asian,0
+Selected & Sworn,2023,Race or Ethnicity,Black or African American,1
+Selected & Sworn,2023,Race or Ethnicity,Hispanic/Latino,3
+Selected & Sworn,2023,Race or Ethnicity,White; Hispanic/Latino,1
+Selected & Sworn,2023,Race or Ethnicity,White,12
+Selected & Sworn,2023,Race or Ethnicity,American Indian or Alaskan/Hispanic/Latino,1
+Selected & Sworn,2023,Race or Ethnicity,Other race or ethnicity,0
+Selected & Sworn,2023,Race or Ethnicity,Decline to answer,0
+Selected & Sworn,2023,District,D1,1
+Selected & Sworn,2023,District,D2,7
+Selected & Sworn,2023,District,D3,2
+Selected & Sworn,2023,District,D4,8
+Selected & Sworn,2023,District,D5,1
+Selected & Sworn,2022,Gender,Male,15
+Selected & Sworn,2022,Gender,Female,4
+Selected & Sworn,2022,Occupation,Retired,18
+Selected & Sworn,2022,Occupation,Service occupations,0
+Selected & Sworn,2022,Occupation,Sales & office occupations,0
+Selected & Sworn,2022,Occupation,Farming/forestry/recreation,0
+Selected & Sworn,2022,Occupation,Small Business Owner,1
+Selected & Sworn,2022,Occupation,Production/transportation,0
+Selected & Sworn,2022,Occupation,Homemaker,0
+Selected & Sworn,2022,Occupation,Student,0
+Selected & Sworn,2022,Occupation,Misc/other,0
+Selected & Sworn,2022,Age Range,18-25,0
+Selected & Sworn,2022,Age Range,26-34,0
+Selected & Sworn,2022,Age Range,35-44,0
+Selected & Sworn,2022,Age Range,45-64,5
+Selected & Sworn,2022,Age Range,65-74,11
+Selected & Sworn,2022,Age Range,75 & over,3
+Selected & Sworn,2022,Age Range,Blank,0
+Selected & Sworn,2022,Race or Ethnicity,Hispanic/Latino/Middle Eastern,0
+Selected & Sworn,2022,Race or Ethnicity,Asian,1
+Selected & Sworn,2022,Race or Ethnicity,Black or African American,2
+Selected & Sworn,2022,Race or Ethnicity,Hispanic/Latino,0
+Selected & Sworn,2022,Race or Ethnicity,White; Hispanic/Latino,0
+Selected & Sworn,2022,Race or Ethnicity,White,15
+Selected & Sworn,2022,Race or Ethnicity,White Asian,0
+Selected & Sworn,2022,Race or Ethnicity,Other race or ethnicity,0
+Selected & Sworn,2022,Race or Ethnicity,Decline to answer,1
+Selected & Sworn,2022,District,D1,1
+Selected & Sworn,2022,District,D2,8
+Selected & Sworn,2022,District,D3,3
+Selected & Sworn,2022,District,D4,4
+Selected & Sworn,2022,District,D5,3
+Selected & Sworn,2020,Gender,Male,13
+Selected & Sworn,2020,Gender,Female,6
+Selected & Sworn,2020,Occupation,Retired,14
+Selected & Sworn,2020,Occupation,Management/professional,4
+Selected & Sworn,2020,Occupation,Service occupations,0
+Selected & Sworn,2020,Occupation,Sales & office occupations,0
+Selected & Sworn,2020,Occupation,Farming/forestry/recreation,0
+Selected & Sworn,2020,Occupation,Construction/extraction,0
+Selected & Sworn,2020,Occupation,Production/transportation,0
+Selected & Sworn,2020,Occupation,Homemaker,0
+Selected & Sworn,2020,Occupation,Student,0
+Selected & Sworn,2020,Occupation,Misc/other,0
+Selected & Sworn,2020,Occupation,Unemployed,1
+Selected & Sworn,2020,Age Range,18-25,0
+Selected & Sworn,2020,Age Range,26-34,0
+Selected & Sworn,2020,Age Range,35-44,0
+Selected & Sworn,2020,Age Range,45-64,4
+Selected & Sworn,2020,Age Range,65-74,11
+Selected & Sworn,2020,Age Range,75 & over,4
+Selected & Sworn,2020,Age Range,Blank,0
+Selected & Sworn,2020,Race or Ethnicity,Hispanic/Latino/Middle Eastern,0
+Selected & Sworn,2020,Race or Ethnicity,Asian,0
+Selected & Sworn,2020,Race or Ethnicity,Black or African American,1
+Selected & Sworn,2020,Race or Ethnicity,Hispanic/Latino,0
+Selected & Sworn,2020,Race or Ethnicity,White; Hispanic/Latino,0
+Selected & Sworn,2020,Race or Ethnicity,White,18
+Selected & Sworn,2020,Race or Ethnicity,American Indian or Alaskan/Hispanic/Latino,0
+Selected & Sworn,2020,Race or Ethnicity,Other race or ethnicity,0
+Selected & Sworn,2020,Race or Ethnicity,Decline to answer,0
+Selected & Sworn,2020,District,D1,0
+Selected & Sworn,2020,District,D2,8
+Selected & Sworn,2020,District,D3,3
+Selected & Sworn,2020,District,D4,6
+Selected & Sworn,2020,District,D5,2
+Selected & Sworn,2019,Gender,Male,8
+Selected & Sworn,2019,Gender,Female,11
+Selected & Sworn,2019,Occupation,Retired,13
+Selected & Sworn,2019,Occupation,Management/professional,1
+Selected & Sworn,2019,Occupation,Service occupations,0
+Selected & Sworn,2019,Occupation,Sales & office occupations,0
+Selected & Sworn,2019,Occupation,Farming/forestry/recreation,0
+Selected & Sworn,2019,Occupation,Construction/extraction,0
+Selected & Sworn,2019,Occupation,Production/transportation,0
+Selected & Sworn,2019,Occupation,Homemaker,0
+Selected & Sworn,2019,Occupation,Student,1
+Selected & Sworn,2019,Occupation,Misc/other,3
+Selected & Sworn,2019,Occupation,Unemployed,0
+Selected & Sworn,2019,Occupation,Decline to answer,1
+Selected & Sworn,2019,Age Range,18-25,0
+Selected & Sworn,2019,Age Range,26-34,1
+Selected & Sworn,2019,Age Range,35-44,0
+Selected & Sworn,2019,Age Range,45-64,4
+Selected & Sworn,2019,Age Range,65-74,13
+Selected & Sworn,2019,Age Range,75 & over,1
+Selected & Sworn,2019,Age Range,Blank,0
+Selected & Sworn,2019,Race or Ethnicity,American Indian/Hispanic/Latino,0
+Selected & Sworn,2019,Race or Ethnicity,Asian,2
+Selected & Sworn,2019,Race or Ethnicity,Black or African American,1
+Selected & Sworn,2019,Race or Ethnicity,Hispanic/Latino,1
+Selected & Sworn,2019,Race or Ethnicity,Native Hawaiian or other Pacific Islander,0
+Selected & Sworn,2019,Race or Ethnicity,White,14
+Selected & Sworn,2019,Race or Ethnicity,Other race or ethnicity,1
+Selected & Sworn,2019,Race or Ethnicity,Decline to answer,0
+Selected & Sworn,2019,District,D1,2
+Selected & Sworn,2019,District,D2,8
+Selected & Sworn,2019,District,D3,1
+Selected & Sworn,2019,District,D4,4
+Selected & Sworn,2019,District,D5,4
+Selected & Sworn,2018,Gender,Male,14
+Selected & Sworn,2018,Gender,Female,5
+Selected & Sworn,2018,Occupation,Retired,13
+Selected & Sworn,2018,Occupation,Management/professional,3
+Selected & Sworn,2018,Occupation,Service occupations,1
+Selected & Sworn,2018,Occupation,Sales & office occupations,0
+Selected & Sworn,2018,Occupation,Farming/forestry/recreation,0
+Selected & Sworn,2018,Occupation,Construction/extraction,0
+Selected & Sworn,2018,Occupation,Production/transportation,1
+Selected & Sworn,2018,Occupation,Homemaker,0
+Selected & Sworn,2018,Occupation,Student,0
+Selected & Sworn,2018,Occupation,Misc/other,0
+Selected & Sworn,2018,Occupation,Unemployed,0
+Selected & Sworn,2018,Occupation,Decline to answer,1
+Selected & Sworn,2018,Age Range,18-25,0
+Selected & Sworn,2018,Age Range,26-34,0
+Selected & Sworn,2018,Age Range,35-44,0
+Selected & Sworn,2018,Age Range,45-64,5
+Selected & Sworn,2018,Age Range,65-74,8
+Selected & Sworn,2018,Age Range,75 & over,4
+Selected & Sworn,2018,Age Range,Decline to answer,2
+Selected & Sworn,2018,Race or Ethnicity,American Indian/Hispanic/Latino,0
+Selected & Sworn,2018,Race or Ethnicity,Asian,2
+Selected & Sworn,2018,Race or Ethnicity,Black or African American,0
+Selected & Sworn,2018,Race or Ethnicity,Hispanic/Latino,0
+Selected & Sworn,2018,Race or Ethnicity,Native Hawaiian or other Pacific Islander,0
+Selected & Sworn,2018,Race or Ethnicity,White,16
+Selected & Sworn,2018,Race or Ethnicity,Other race or ethnicity,1
+Selected & Sworn,2018,Race or Ethnicity,Decline to answer,0
+Selected & Sworn,2018,District,D1,4
+Selected & Sworn,2018,District,D2,6
+Selected & Sworn,2018,District,D3,3
+Selected & Sworn,2018,District,D4,3
+Selected & Sworn,2018,District,D5,3
+Applicant,2026,Gender,Male,20
+Applicant,2026,Gender,Female,21
+Applicant,2026,Occupation,Retired,30
+Applicant,2026,Occupation,Management/professional,5
+Applicant,2026,Occupation,Sales & office occupations,0
+Applicant,2026,Occupation,Student,0
+Applicant,2026,Occupation,Self Employed,2
+Applicant,2026,Occupation,Unemployed,4
+Applicant,2026,Age Range,18-25,0
+Applicant,2026,Age Range,26-34,0
+Applicant,2026,Age Range,35-44,2
+Applicant,2026,Age Range,45-64,8
+Applicant,2026,Age Range,65-74,20
+Applicant,2026,Age Range,75 & over,10
+Applicant,2026,Age Range,Decline to answer,1
+Applicant,2026,Race or Ethnicity,American Indian/Hispanic/Latino,1
+Applicant,2026,Race or Ethnicity,Asian,6
+Applicant,2026,Race or Ethnicity,Black or African American,3
+Applicant,2026,Race or Ethnicity,Hispanic/Latino,3
+Applicant,2026,Race or Ethnicity,Native Hawaiian or other Pacific Islander,0
+Applicant,2026,Race or Ethnicity,White,26
+Applicant,2026,Race or Ethnicity,Other race or ethnicity,2
+Applicant,2026,Race or Ethnicity,Decline to answer,0
+Applicant,2026,District,D1,5
+Applicant,2026,District,D2,20
+Applicant,2026,District,D3,2
+Applicant,2026,District,D4,9
+Applicant,2026,District,D5,5
+Applicant,2025,Gender,Male,34
+Applicant,2025,Gender,Female,24
+Applicant,2025,Occupation,Retired,45
+Applicant,2025,Occupation,Management/professional,7
+Applicant,2025,Occupation,Sales & office occupations,3
+Applicant,2025,Occupation,Student,1
+Applicant,2025,Occupation,Self Employed,2
+Applicant,2025,Age Range,18-25,1
+Applicant,2025,Age Range,26-34,0
+Applicant,2025,Age Range,35-44,4
+Applicant,2025,Age Range,45-64,19
+Applicant,2025,Age Range,65-74,21
+Applicant,2025,Age Range,75 & over,10
+Applicant,2025,Age Range,Decline to answer,3
+Applicant,2025,Race or Ethnicity,American Indian/Hispanic/Latino,0
+Applicant,2025,Race or Ethnicity,Asian,1
+Applicant,2025,Race or Ethnicity,Black or African American,3
+Applicant,2025,Race or Ethnicity,Hispanic/Latino,2
+Applicant,2025,Race or Ethnicity,Native Hawaiian or other Pacific Islander,1
+Applicant,2025,Race or Ethnicity,White,49
+Applicant,2025,Race or Ethnicity,Other race or ethnicity,1
+Applicant,2025,Race or Ethnicity,Decline to answer,1
+Applicant,2025,District,D1,4
+Applicant,2025,District,D2,29
+Applicant,2025,District,D3,7
+Applicant,2025,District,D4,12
+Applicant,2025,District,D5,6
+Applicant,2024,Gender,Male,33
+Applicant,2024,Gender,Female,16
+Applicant,2024,Occupation,Retired,35
+Applicant,2024,Occupation,Admin,1
+Applicant,2024,Occupation,Legal,2
+Applicant,2024,Occupation,Caregiver,1
+Applicant,2024,Occupation,Director,2
+Applicant,2024,Occupation,Consultant,2
+Applicant,2024,Occupation,Education,1
+Applicant,2024,Occupation,Self-Employed,3
+Applicant,2024,Occupation,Semi-Retired,1
+Applicant,2024,Occupation,Analyst,1
+Applicant,2024,Age Range,18-25,0
+Applicant,2024,Age Range,26-34,1
+Applicant,2024,Age Range,35-44,1
+Applicant,2024,Age Range,45-64,11
+Applicant,2024,Age Range,65-74,24
+Applicant,2024,Age Range,75 & over,9
+Applicant,2024,Age Range,,3
+Applicant,2024,Race or Ethnicity,White,38
+Applicant,2024,Race or Ethnicity,Asian,3
+Applicant,2024,Race or Ethnicity,Black or African American,1
+Applicant,2024,Race or Ethnicity,Hispanic/Latino,1
+Applicant,2024,Race or Ethnicity,Other race or ethnicity,1
+Applicant,2024,Race or Ethnicity,Decline to answer,5
+Applicant,2024,District,D1,10
+Applicant,2024,District,D2,23
+Applicant,2024,District,D3,8
+Applicant,2024,District,D4,6
+Applicant,2024,District,D5,2
+Applicant,2023,Gender,Male,40
+Applicant,2023,Gender,Female,33
+Applicant,2023,Occupation,Retired,57
+Applicant,2023,Occupation,Management/professional,10
+Applicant,2023,Occupation,Service occupations,0
+Applicant,2023,Occupation,Sales & office occupations,0
+Applicant,2023,Occupation,Farming/forestry/recreation,0
+Applicant,2023,Occupation,Construction/extraction,1
+Applicant,2023,Occupation,Production/transportation,2
+Applicant,2023,Occupation,Homemaker,0
+Applicant,2023,Occupation,Student,0
+Applicant,2023,Occupation,Misc/other,3
+Applicant,2023,Occupation,Unemployed,0
+Applicant,2023,Age Range,18-25,2
+Applicant,2023,Age Range,26-34,2
+Applicant,2023,Age Range,35-44,3
+Applicant,2023,Age Range,45-64,23
+Applicant,2023,Age Range,65-74,24
+Applicant,2023,Age Range,75 & over,18
+Applicant,2023,Age Range,Blank,1
+Applicant,2023,Race or Ethnicity,American Indian/Hispanic/Latino,1
+Applicant,2023,Race or Ethnicity,Asian,2
+Applicant,2023,Race or Ethnicity,Black or African American,5
+Applicant,2023,Race or Ethnicity,Hispanic/Latino,4
+Applicant,2023,Race or Ethnicity,White; Hispanic/Latino,4
+Applicant,2023,Race or Ethnicity,White,52
+Applicant,2023,Race or Ethnicity,White/Black or African American,1
+Applicant,2023,Race or Ethnicity,Other race or ethnicity,1
+Applicant,2023,Race or Ethnicity,Decline to answer,3
+Applicant,2023,District,D1,10
+Applicant,2023,District,D2,25
+Applicant,2023,District,D3,9
+Applicant,2023,District,D4,25
+Applicant,2023,District,D5,4
+Applicant,2022,Gender,Male,30
+Applicant,2022,Gender,Female,12
+Applicant,2022,Occupation,Retired,35
+Applicant,2022,Occupation,Management/professional,7
+Applicant,2022,Occupation,Service occupations,0
+Applicant,2022,Occupation,Sales & office occupations,0
+Applicant,2022,Occupation,Farming/forestry/recreation,0
+Applicant,2022,Occupation,Construction/extraction,0
+Applicant,2022,Occupation,Production/transportation,0
+Applicant,2022,Occupation,Homemaker,0
+Applicant,2022,Occupation,Student,0
+Applicant,2022,Occupation,Misc/other,0
+Applicant,2022,Occupation,Unemployed,0
+Applicant,2022,Occupation,No Answer,0
+Applicant,2022,Age Range,18-25,0
+Applicant,2022,Age Range,26-34,0
+Applicant,2022,Age Range,35-44,0
+Applicant,2022,Age Range,45-64,11
+Applicant,2022,Age Range,65-74,21
+Applicant,2022,Age Range,75 & over,10
+Applicant,2022,Age Range,Blank,0
+Applicant,2022,Race or Ethnicity,American Indian/Hispanic/Latino,0
+Applicant,2022,Race or Ethnicity,Asian,2
+Applicant,2022,Race or Ethnicity,Black or African American,5
+Applicant,2022,Race or Ethnicity,Hispanic/Latino,0
+Applicant,2022,Race or Ethnicity,White; Hispanic/Latino,1
+Applicant,2022,Race or Ethnicity,White,31
+Applicant,2022,Race or Ethnicity,White/Asian,1
+Applicant,2022,Race or Ethnicity,Other race or ethnicity,1
+Applicant,2022,Race or Ethnicity,Decline to answer,1
+Applicant,2022,District,D1,2
+Applicant,2022,District,D2,19
+Applicant,2022,District,D3,7
+Applicant,2022,District,D4,8
+Applicant,2022,District,D5,6
+Applicant,2020,Gender,Male,39
+Applicant,2020,Gender,Female,17
+Applicant,2020,Occupation,Retired,44
+Applicant,2020,Occupation,Management/professional,3
+Applicant,2020,Occupation,Service occupations,0
+Applicant,2020,Occupation,Sales & office occupations,4
+Applicant,2020,Occupation,Farming/forestry/recreation,0
+Applicant,2020,Occupation,Construction/extraction,0
+Applicant,2020,Occupation,Production/transportation,0
+Applicant,2020,Occupation,Homemaker,2
+Applicant,2020,Occupation,Student,0
+Applicant,2020,Occupation,Misc/other,1
+Applicant,2020,Occupation,Unemployed,2
+Applicant,2020,Age Range,18-25,0
+Applicant,2020,Age Range,26-34,2
+Applicant,2020,Age Range,35-44,1
+Applicant,2020,Age Range,45-64,17
+Applicant,2020,Age Range,65-74,26
+Applicant,2020,Age Range,75 & over,10
+Applicant,2020,Race or Ethnicity,American Indian or Alaska Native,0
+Applicant,2020,Race or Ethnicity,Asian,0
+Applicant,2020,Race or Ethnicity,Black or African American,3
+Applicant,2020,Race or Ethnicity,Hispanic/Latino,1
+Applicant,2020,Race or Ethnicity,Native Hawaiian or other Pacific Isalnder,0
+Applicant,2020,Race or Ethnicity,White,49
+Applicant,2020,Race or Ethnicity,Other race or ethnicity,2
+Applicant,2020,Race or Ethnicity,Decline to answer,1
+Applicant,2020,District,D1,4
+Applicant,2020,District,D2,23
+Applicant,2020,District,D3,5
+Applicant,2020,District,D4,15
+Applicant,2020,District,D5,9
+Applicant,2019,Gender,Male,59
+Applicant,2019,Gender,Female,43
+Applicant,2019,Occupation,Retired,69
+Applicant,2019,Occupation,Management/professional,15
+Applicant,2019,Occupation,Service occupations,1
+Applicant,2019,Occupation,Sales & office occupations,0
+Applicant,2019,Occupation,Farming/forestry/recreation,8
+Applicant,2019,Occupation,Construction/extraction,0
+Applicant,2019,Occupation,Production/transportation,1
+Applicant,2019,Occupation,Homemaker,0
+Applicant,2019,Occupation,Student,1
+Applicant,2019,Occupation,Misc/other,6
+Applicant,2019,Occupation,Unemployed,1
+Applicant,2019,Occupation,Decline to answer,0
+Applicant,2019,Age Range,18-25,0
+Applicant,2019,Age Range,26-34,3
+Applicant,2019,Age Range,35-44,4
+Applicant,2019,Age Range,45-64,22
+Applicant,2019,Age Range,65-74,52
+Applicant,2019,Age Range,75 & over,21
+Applicant,2019,Age Range,Decline to answer,0
+Applicant,2019,Race or Ethnicity,American Indian/Hispanic/Latino,1
+Applicant,2019,Race or Ethnicity,Asian,5
+Applicant,2019,Race or Ethnicity,Black or African American,7
+Applicant,2019,Race or Ethnicity,Hispanic/Latino,5
+Applicant,2019,Race or Ethnicity,Native Hawaiian or other Pacific Isalnder,0
+Applicant,2019,Race or Ethnicity,White,80
+Applicant,2019,Race or Ethnicity,Other race or ethnicity,3
+Applicant,2019,Race or Ethnicity,Decline to answer,1
+Applicant,2019,District,D1,9
+Applicant,2019,District,D2,37
+Applicant,2019,District,D3,11
+Applicant,2019,District,D4,29
+Applicant,2019,District,D5,16
+Applicant,2018,Gender,Male,49
+Applicant,2018,Gender,Female,31
+Applicant,2018,Occupation,Retired,59
+Applicant,2018,Occupation,Management/professional,11
+Applicant,2018,Occupation,Service occupations,1
+Applicant,2018,Occupation,Sales & office occupations,3
+Applicant,2018,Occupation,Farming/forestry/recreation,0
+Applicant,2018,Occupation,Construction/extraction,0
+Applicant,2018,Occupation,Production/transportation,4
+Applicant,2018,Occupation,Homemaker,0
+Applicant,2018,Occupation,Student,1
+Applicant,2018,Occupation,Misc/other,1
+Applicant,2018,Occupation,Unemployed,0
+Applicant,2018,Occupation,Decline to answer,0
+Applicant,2018,Age Range,18-25,1
+Applicant,2018,Age Range,26-34,1
+Applicant,2018,Age Range,35-44,0
+Applicant,2018,Age Range,45-64,25
+Applicant,2018,Age Range,65-74,32
+Applicant,2018,Age Range,75 & over,20
+Applicant,2018,Age Range,Decline to answer,1
+Applicant,2018,Race or Ethnicity,American Indian/Hispanic/Latino,0
+Applicant,2018,Race or Ethnicity,Asian,3
+Applicant,2018,Race or Ethnicity,Black or African American,5
+Applicant,2018,Race or Ethnicity,Hispanic/Latino,3
+Applicant,2018,Race or Ethnicity,Native Hawaiian or other Pacific Islander,0
+Applicant,2018,Race or Ethnicity,White,67
+Applicant,2018,Race or Ethnicity,Other race or ethnicity,2
+Applicant,2018,Race or Ethnicity,Decline to answer,0
+Applicant,2018,District,D1,15
+Applicant,2018,District,D2,23
+Applicant,2018,District,D3,12
+Applicant,2018,District,D4,21
+Applicant,2018,District,D5,9

@@ -122,15 +122,8 @@
     "Data Source":"Selected & Sworn",
     "Year":2026,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":1
-  },
-  {
-    "Data Source":"Selected & Sworn",
-    "Year":2026,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Count":3
+    "Subcategory":"45-64",
+    "Count":4
   },
   {
     "Data Source":"Selected & Sworn",
@@ -367,15 +360,8 @@
     "Data Source":"Selected & Sworn",
     "Year":2025,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":1
-  },
-  {
-    "Data Source":"Selected & Sworn",
-    "Year":2025,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Count":4
+    "Subcategory":"45-64",
+    "Count":5
   },
   {
     "Data Source":"Selected & Sworn",
@@ -598,15 +584,8 @@
     "Data Source":"Selected & Sworn",
     "Year":2024,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":2
-  },
-  {
-    "Data Source":"Selected & Sworn",
-    "Year":2024,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Count":3
+    "Subcategory":"45-64",
+    "Count":5
   },
   {
     "Data Source":"Selected & Sworn",
@@ -843,14 +822,7 @@
     "Data Source":"Selected & Sworn",
     "Year":2023,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":0
-  },
-  {
-    "Data Source":"Selected & Sworn",
-    "Year":2023,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
+    "Subcategory":"45-64",
     "Count":7
   },
   {
@@ -1081,14 +1053,7 @@
     "Data Source":"Selected & Sworn",
     "Year":2022,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":0
-  },
-  {
-    "Data Source":"Selected & Sworn",
-    "Year":2022,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
+    "Subcategory":"45-64",
     "Count":5
   },
   {
@@ -1326,15 +1291,8 @@
     "Data Source":"Selected & Sworn",
     "Year":2020,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":3
-  },
-  {
-    "Data Source":"Selected & Sworn",
-    "Year":2020,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Count":1
+    "Subcategory":"45-64",
+    "Count":4
   },
   {
     "Data Source":"Selected & Sworn",
@@ -1578,14 +1536,7 @@
     "Data Source":"Selected & Sworn",
     "Year":2019,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":0
-  },
-  {
-    "Data Source":"Selected & Sworn",
-    "Year":2019,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
+    "Subcategory":"45-64",
     "Count":4
   },
   {
@@ -1823,14 +1774,7 @@
     "Data Source":"Selected & Sworn",
     "Year":2018,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":0
-  },
-  {
-    "Data Source":"Selected & Sworn",
-    "Year":2018,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
+    "Subcategory":"45-64",
     "Count":5
   },
   {
@@ -2026,15 +1970,8 @@
     "Data Source":"Applicant",
     "Year":2026,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":3
-  },
-  {
-    "Data Source":"Applicant",
-    "Year":2026,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Count":5
+    "Subcategory":"45-64",
+    "Count":8
   },
   {
     "Data Source":"Applicant",
@@ -2222,15 +2159,8 @@
     "Data Source":"Applicant",
     "Year":2025,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":7
-  },
-  {
-    "Data Source":"Applicant",
-    "Year":2025,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Count":12
+    "Subcategory":"45-64",
+    "Count":19
   },
   {
     "Data Source":"Applicant",
@@ -2453,15 +2383,8 @@
     "Data Source":"Applicant",
     "Year":2024,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":2
-  },
-  {
-    "Data Source":"Applicant",
-    "Year":2024,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Count":9
+    "Subcategory":"45-64",
+    "Count":11
   },
   {
     "Data Source":"Applicant",
@@ -2677,22 +2600,8 @@
     "Data Source":"Applicant",
     "Year":2023,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":5
-  },
-  {
-    "Data Source":"Applicant",
-    "Year":2023,
-    "Category":"Age Range",
     "Subcategory":"45-64",
-    "Count":3
-  },
-  {
-    "Data Source":"Applicant",
-    "Year":2023,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Count":15
+    "Count":23
   },
   {
     "Data Source":"Applicant",
@@ -2930,13 +2839,6 @@
     "Year":2022,
     "Category":"Age Range",
     "Subcategory":"35-44",
-    "Count":0
-  },
-  {
-    "Data Source":"Applicant",
-    "Year":2022,
-    "Category":"Age Range",
-    "Subcategory":"45-54",
     "Count":0
   },
   {
@@ -3181,15 +3083,8 @@
     "Data Source":"Applicant",
     "Year":2020,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":4
-  },
-  {
-    "Data Source":"Applicant",
-    "Year":2020,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Count":13
+    "Subcategory":"45-64",
+    "Count":17
   },
   {
     "Data Source":"Applicant",
@@ -3419,15 +3314,8 @@
     "Data Source":"Applicant",
     "Year":2019,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":7
-  },
-  {
-    "Data Source":"Applicant",
-    "Year":2019,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Count":15
+    "Subcategory":"45-64",
+    "Count":22
   },
   {
     "Data Source":"Applicant",
@@ -3664,15 +3552,8 @@
     "Data Source":"Applicant",
     "Year":2018,
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Count":2
-  },
-  {
-    "Data Source":"Applicant",
-    "Year":2018,
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Count":23
+    "Subcategory":"45-64",
+    "Count":25
   },
   {
     "Data Source":"Applicant",

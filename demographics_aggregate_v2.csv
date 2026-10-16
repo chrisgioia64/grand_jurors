@@ -1,0 +1,101 @@
+Data Source,Category,Subcategory,Total_Count
+Applicant,Age Range,18-25,4
+Applicant,Age Range,26-34,9
+Applicant,Age Range,35-44,15
+Applicant,Age Range,45-64,136
+Applicant,Age Range,65-74,220
+Applicant,Age Range,75 & over,108
+Applicant,Age Range,Blank,1
+Applicant,Age Range,Decline to answer,5
+Applicant,District,D1,59
+Applicant,District,D2,199
+Applicant,District,D3,61
+Applicant,District,D4,125
+Applicant,District,D5,57
+Applicant,Gender,Female,197
+Applicant,Gender,Male,304
+Applicant,Occupation,Admin,1
+Applicant,Occupation,Analyst,1
+Applicant,Occupation,Caregiver,1
+Applicant,Occupation,Construction/extraction,1
+Applicant,Occupation,Consultant,2
+Applicant,Occupation,Decline to answer,0
+Applicant,Occupation,Director,2
+Applicant,Occupation,Education,1
+Applicant,Occupation,Farming/forestry/recreation,8
+Applicant,Occupation,Homemaker,2
+Applicant,Occupation,Legal,2
+Applicant,Occupation,Management/professional,58
+Applicant,Occupation,Misc/other,11
+Applicant,Occupation,No Answer,0
+Applicant,Occupation,Production/transportation,7
+Applicant,Occupation,Retired,374
+Applicant,Occupation,Sales & office occupations,10
+Applicant,Occupation,Self Employed,4
+Applicant,Occupation,Self-Employed,3
+Applicant,Occupation,Semi-Retired,1
+Applicant,Occupation,Service occupations,2
+Applicant,Occupation,Student,3
+Applicant,Occupation,Unemployed,7
+Applicant,Race or Ethnicity,American Indian or Alaska Native,0
+Applicant,Race or Ethnicity,American Indian/Hispanic/Latino,3
+Applicant,Race or Ethnicity,Asian,22
+Applicant,Race or Ethnicity,Black or African American,32
+Applicant,Race or Ethnicity,Decline to answer,12
+Applicant,Race or Ethnicity,Hispanic/Latino,19
+Applicant,Race or Ethnicity,Native Hawaiian or other Pacific Isalnder,0
+Applicant,Race or Ethnicity,Native Hawaiian or other Pacific Islander,1
+Applicant,Race or Ethnicity,Other race or ethnicity,13
+Applicant,Race or Ethnicity,White,392
+Applicant,Race or Ethnicity,White/Asian,1
+Applicant,Race or Ethnicity,White/Black or African American,1
+Applicant,Race or Ethnicity,White; Hispanic/Latino,5
+Selected & Sworn,Age Range,18-25,0
+Selected & Sworn,Age Range,26-34,1
+Selected & Sworn,Age Range,35-44,0
+Selected & Sworn,Age Range,45-64,39
+Selected & Sworn,Age Range,65-74,86
+Selected & Sworn,Age Range,75 & over,24
+Selected & Sworn,Age Range,Blank,0
+Selected & Sworn,Age Range,Decline to answer,4
+Selected & Sworn,District,D1,13
+Selected & Sworn,District,D2,67
+Selected & Sworn,District,D3,18
+Selected & Sworn,District,D4,38
+Selected & Sworn,District,D5,18
+Selected & Sworn,Gender,Female,55
+Selected & Sworn,Gender,Male,99
+Selected & Sworn,Occupation,Admin,0
+Selected & Sworn,Occupation,Analyst,0
+Selected & Sworn,Occupation,Caregiver,1
+Selected & Sworn,Occupation,Construction/extraction,1
+Selected & Sworn,Occupation,Consultant,1
+Selected & Sworn,Occupation,Decline to answer,2
+Selected & Sworn,Occupation,Director,0
+Selected & Sworn,Occupation,Education,0
+Selected & Sworn,Occupation,Farming/forestry/recreation,0
+Selected & Sworn,Occupation,Homemaker,0
+Selected & Sworn,Occupation,Legal,0
+Selected & Sworn,Occupation,Management/professional,13
+Selected & Sworn,Occupation,Misc/other,3
+Selected & Sworn,Occupation,Production/transportation,1
+Selected & Sworn,Occupation,Retired,123
+Selected & Sworn,Occupation,Sales & office occupations,0
+Selected & Sworn,Occupation,Self-Employed,2
+Selected & Sworn,Occupation,Semi-Retired,0
+Selected & Sworn,Occupation,Service occupations,1
+Selected & Sworn,Occupation,Small Business Owner,1
+Selected & Sworn,Occupation,Student,1
+Selected & Sworn,Occupation,Unemployed,4
+Selected & Sworn,Race or Ethnicity,American Indian or Alaskan/Hispanic/Latino,1
+Selected & Sworn,Race or Ethnicity,American Indian/Hispanic/Latino,0
+Selected & Sworn,Race or Ethnicity,Asian,7
+Selected & Sworn,Race or Ethnicity,Black or African American,8
+Selected & Sworn,Race or Ethnicity,Decline to answer,4
+Selected & Sworn,Race or Ethnicity,Hispanic/Latino,7
+Selected & Sworn,Race or Ethnicity,Hispanic/Latino/Middle Eastern,1
+Selected & Sworn,Race or Ethnicity,Native Hawaiian or other Pacific Islander,0
+Selected & Sworn,Race or Ethnicity,Other race or ethnicity,3
+Selected & Sworn,Race or Ethnicity,White,122
+Selected & Sworn,Race or Ethnicity,White Asian,0
+Selected & Sworn,Race or Ethnicity,White; Hispanic/Latino,1

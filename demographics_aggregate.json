@@ -20,20 +20,8 @@
   {
     "Data Source":"Applicant",
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Total_Count":30
-  },
-  {
-    "Data Source":"Applicant",
-    "Category":"Age Range",
     "Subcategory":"45-64",
-    "Total_Count":14
-  },
-  {
-    "Data Source":"Applicant",
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Total_Count":92
+    "Total_Count":136
   },
   {
     "Data Source":"Applicant",
@@ -338,14 +326,8 @@
   {
     "Data Source":"Selected & Sworn",
     "Category":"Age Range",
-    "Subcategory":"45-54",
-    "Total_Count":7
-  },
-  {
-    "Data Source":"Selected & Sworn",
-    "Category":"Age Range",
-    "Subcategory":"55-64",
-    "Total_Count":32
+    "Subcategory":"45-64",
+    "Total_Count":39
   },
   {
     "Data Source":"Selected & Sworn",

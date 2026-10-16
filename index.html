@@ -60,6 +60,40 @@
             grid-template-columns: 1fr;
             max-width: 900px;
         }
+        .filter-controls {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 25px;
+            background: #ffffff;
+            padding: 10px 24px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            max-width: fit-content;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .filter-label {
+            font-weight: 600;
+            color: #2c3e50;
+            font-size: 0.95rem;
+        }
+        .checkbox-label {
+            display: inline-flex;
+            align-items: center;
+            gap: 7px;
+            cursor: pointer;
+            font-size: 0.95rem;
+            color: #34495e;
+            user-select: none;
+        }
+        .checkbox-label input[type="checkbox"] {
+            cursor: pointer;
+            width: 16px;
+            height: 16px;
+            accent-color: #3498db;
+        }
         .chart-subtitle {
             font-size: 0.95rem;
             color: #34495e;
@@ -103,6 +137,15 @@
 
     <div id="aggregate-tab" class="tab-content active">
         <p class="subtitle">Comparing the Applicant Pool vs. Selected & Sworn Jurors (Percentages)</p>
+        <div class="filter-controls">
+            <span class="filter-label">Show:</span>
+            <label class="checkbox-label">
+                <input type="checkbox" id="filter-applicants" checked> Applicants
+            </label>
+            <label class="checkbox-label">
+                <input type="checkbox" id="filter-sworn" checked> Selected &amp; Sworn
+            </label>
+        </div>
         <div class="dashboard" id="dashboard">
             <!-- Aggregate Charts will be injected here by app.js -->
         </div>
@@ -110,6 +153,15 @@
 
     <div id="trends-tab" class="tab-content">
         <p class="subtitle">Year-over-year percentages for Applicants and Selected &amp; Sworn (2018&ndash;2026; no 2021 panel)</p>
+        <div class="filter-controls">
+            <span class="filter-label">Show:</span>
+            <label class="checkbox-label">
+                <input type="checkbox" id="filter-trends-applicants" checked> Applicants
+            </label>
+            <label class="checkbox-label">
+                <input type="checkbox" id="filter-trends-sworn" checked> Selected &amp; Sworn
+            </label>
+        </div>
         <div class="dashboard" id="trends-dashboard">
             <!-- Trend Charts will be injected here by app.js -->
         </div>

@@ -5,9 +5,8 @@ function isMissingAgeSubcategory(subcat) {
 }
 
 function normalizeAgeSubcategory(subcat) {
-    if (subcat === '65-74') return '65-74';
-    if (subcat === '75 & over' || subcat === '75 and over') return '75 and over';
-    return '64 and below';
+    if (subcat === '75 and over' || subcat === '75 & over') return '75 & over';
+    return subcat;
 }
 
 function normalizeRaceSubcategory(subcat) {
@@ -57,7 +56,7 @@ function addToBucket(bucket, source, subcat, count) {
 }
 
 function sortLabels(catName, labels) {
-    const ageOrder = ['18-25', '26-34', '35-44', '45-54', '45-64', '55-64', '64 and below', '65-74', '75 & over', '75 and over', 'Decline to answer'];
+    const ageOrder = ['18-25', '26-34', '35-44', '45-64', '65-74', '75 & over', '75 and over', 'Decline to answer'];
     if (catName.startsWith('Age Range')) {
         return labels.sort((a, b) => {
             const ia = ageOrder.indexOf(a);
@@ -79,25 +78,6 @@ function yMaxForCategory(catName) {
     return 100;
 }
 
-function summaryForCategory(catName) {
-    if (catName === 'Age Range') {
-        return "The grand jury is overwhelmingly composed of seniors, with those aged 65 and older making up over 80% of both applicants and sworn jurors. Working-age adults under 45 are virtually absent from the final impaneled bodies.";
-    }
-    if (catName === 'District') {
-        return "District 2 is the dominant contributor, accounting for roughly 40% of applicants and 44% of seated jurors. Districts 1, 3, and 5 each consistently represent under 12% of the sworn members.";
-    }
-    if (catName === 'Gender') {
-        return "The grand jury leans majority male, representing about 61% of applicants and 64% of sworn jurors. The final selection closely mirrors the gender breakdown of the initial applicant pool.";
-    }
-    if (catName.startsWith('Occupation')) {
-        return "Retirees dominate the grand jury, making up 75% of applicants and 80% of seated jurors. Management and professional roles form a distant second category.";
-    }
-    if (catName.startsWith('Race or Ethnicity')) {
-        return "The jury is predominantly White (approx. 78% of applicants and 79% of seated jurors). Asian, Black/African American, and Hispanic/Latino individuals each represent around 4-5% of the sworn members, closely tracking their applicant rates.";
-    }
-    return "";
-}
-
 const TREND_DEFAULTS = {
     'Gender': 'Male',
     'Occupation': 'Retired',
@@ -109,7 +89,7 @@ const TREND_DEFAULTS = {
 const TREND_OPTION_ORDER = {
     'Gender': ['Male', 'Female'],
     'Occupation': ['Retired', 'Management/professional', 'Unemployed', 'Other'],
-    'Age Range': ['64 and below', '65-74', '75 and over'],
+    'Age Range': ['18-25', '26-34', '35-44', '45-64', '65-74', '75 & over'],
     'Race or Ethnicity': ['White', 'Asian', 'Black or African American', 'Hispanic/Latino', 'Other'],
     'District': ['D1', 'D2', 'D3', 'D4', 'D5']
 };
@@ -338,19 +318,8 @@ function renderAggregate(categories) {
         const canvas = document.createElement('canvas');
         canvasWrapper.appendChild(canvas);
 
-        const summaryText = document.createElement('p');
-        summaryText.style.fontSize = '0.9rem';
-        summaryText.style.color = '#555';
-        summaryText.style.marginTop = '15px';
-        summaryText.style.lineHeight = '1.4';
-        const summary = summaryForCategory(catName);
-        summaryText.textContent = summary;
-
         container.appendChild(titleContainer);
         container.appendChild(canvasWrapper);
-        if (summary) {
-            container.appendChild(summaryText);
-        }
         dashboard.appendChild(container);
 
         new Chart(canvas, {
@@ -550,11 +519,66 @@ function renderTrends(categories) {
             const datasets = buildSourceComparisonDatasets(catData, years, select.value);
             chart.data.datasets = datasets;
             chart.options.scales.y.max = paddedYMax(datasets);
+            const trendsAppCb = document.getElementById('filter-trends-applicants');
+            const trendsSwornCb = document.getElementById('filter-trends-sworn');
+            if (trendsAppCb && trendsSwornCb) {
+                chart.setDatasetVisibility(0, trendsAppCb.checked);
+                chart.setDatasetVisibility(1, trendsSwornCb.checked);
+            }
             chart.update();
         });
 
         dashboard.appendChild(container);
     }
+}
+
+function setupFilterControls(appCbId, swornCbId, containerId) {
+    const appCb = document.getElementById(appCbId);
+    const swornCb = document.getElementById(swornCbId);
+    if (!appCb || !swornCb) return;
+
+    function updateVisibility() {
+        const showApp = appCb.checked;
+        const showSworn = swornCb.checked;
+
+        const canvases = document.querySelectorAll(`#${containerId} canvas`);
+        canvases.forEach(canvas => {
+            const chart = Chart.getChart(canvas);
+            if (chart && chart.data && chart.data.datasets) {
+                if (chart.data.datasets.length > 0) {
+                    chart.setDatasetVisibility(0, showApp);
+                }
+                if (chart.data.datasets.length > 1) {
+                    chart.setDatasetVisibility(1, showSworn);
+                }
+                chart.update();
+            }
+        });
+    }
+
+    appCb.addEventListener('change', () => {
+        if (!appCb.checked && !swornCb.checked) {
+            appCb.checked = true;
+            return;
+        }
+        updateVisibility();
+    });
+
+    swornCb.addEventListener('change', () => {
+        if (!appCb.checked && !swornCb.checked) {
+            swornCb.checked = true;
+            return;
+        }
+        updateVisibility();
+    });
+}
+
+function setupAggregateFilters() {
+    setupFilterControls('filter-applicants', 'filter-sworn', 'dashboard');
+}
+
+function setupTrendsFilters() {
+    setupFilterControls('filter-trends-applicants', 'filter-trends-sworn', 'trends-dashboard');
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
@@ -567,7 +591,9 @@ document.addEventListener('DOMContentLoaded', async () => {
         const rawData = await rawRes.json();
 
         renderAggregate(groupAggregate(aggData));
+        setupAggregateFilters();
         renderTrends(groupYearly(rawData));
+        setupTrendsFilters();
     } catch (error) {
         console.error("Error loading or parsing data:", error);
         document.getElementById('dashboard').innerHTML = '<p style="color:red; text-align:center;">Error loading data. Make sure you are running this through a local web server (e.g., Live Server or python -m http.server).</p>';
